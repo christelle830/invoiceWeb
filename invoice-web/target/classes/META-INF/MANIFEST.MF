@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: jptch
+Build-Jdk: 17.0.8.1
+Implementation-Title: invoice-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mycompany.invoise-web
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
